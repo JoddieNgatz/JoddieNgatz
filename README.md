@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Joseph Mureithi](https://github.com/JoddieNgatz/)
+## Hi 👋, I'm [Joseph Mureithi](https://github.com/JoddieNgatz/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-mureithi-swe/)
 
@@ -7,20 +7,20 @@
 I consider myself a Problem solver who’s a driven team player eager to add value, innovate and accomplish goals. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 I have a passion for creating great solutions to real world issues with tech.
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
 - 🚀 &nbsp; I’m currently a Full Stack Developer.
-- 🛠 &nbsp; I’m currently working professionally with Nodejs, Nest, Flutter, Python, Go, React,<br /> &nbsp;&nbsp;&nbsp;&nbsp;Graphql, GraphCMS, Azure, AWS, GCP, Mongodb, Firebase, Javascript, Dart.
+- 🛠  &nbsp; I’m currently working professionally with Nodejs, Nest, Flutter, Python, Go, React,<br />  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Graphql, GraphCMS, Azure, AWS, GCP, Mongodb, Firebase, Javascript, Dart.
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/JoddieNgatz).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/JoddieNgatz/JoddieNgatz/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: I love hiking 🧗 and conquering mountains ⛰️.
 - 📝 &nbsp; Checkout my [LinkedIn](https://www.linkedin.com/in/joseph-mureithi-swe/).
 
 ### What i love to do in my free time:
 
+- 👾 &nbsp; Fun fact: I love hiking 🧗 and conquering mountains ⛰️.
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & experimenting.
-- 🍕 &nbsp; Meetups & tech events.
+- 🍕 &nbsp;  Meetups & tech events.
 - 🎯 &nbsp; Inspiration:  I climbed a mountain because it's there. ⛰️
   
 ### Languages and Tools:
