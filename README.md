@@ -9,8 +9,8 @@ I have a passion for creating great solutions to real world issues with tech.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working professionally with Nodejs,Nest.js, Flutter, Python, Go, React,<br /> &nbsp;&nbsp;&nbsp; Graphql, GraphCMS, Azure, AWS, GCP, Mongodb, Firebase, Javascript.
 - 🚀 &nbsp; I’m currently a Full Stack Developer.
+- 🛠 &nbsp; I’m currently working professionally with Nodejs, Nest, Flutter, Python, Go, React,<br /> &nbsp;&nbsp;&nbsp;&nbsp;Graphql, GraphCMS, Azure, AWS, GCP, Mongodb, Firebase, Javascript, Dart.
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/JoddieNgatz).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/JoddieNgatz/JoddieNgatz/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: I love hiking 🧗 and conquering mountains ⛰️.
