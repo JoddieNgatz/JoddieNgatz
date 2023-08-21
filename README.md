@@ -9,9 +9,9 @@ I have a passion for creating great solutions to real world issues with tech.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working professionally with Nodejs, Flutter, Python, Go, React, <br /> Graphql,GraphCMS, Azure, AWS, GCP, Mongodb, Firebase, Javascript, etc.
+- 🛠 &nbsp; I’m currently working professionally with Nodejs, Flutter, Python, Go, React, <br />   Graphql,GraphCMS, Azure, AWS, GCP, Mongodb, Firebase, Javascript.
 - 🚀 &nbsp; I’m currently a Full Stack Developer.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/JoddieNgatz).
+- 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/JoddieNgatz).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/JoddieNgatz/JoddieNgatz/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: I love hiking 🧗 and conquering mountains ⛰️.
 - 📝 &nbsp; Checkout my [LinkedIn](https://www.linkedin.com/in/joseph-mureithi-swe/).
@@ -21,7 +21,7 @@ I have a passion for creating great solutions to real world issues with tech.
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & experimenting.
 - 🍕 &nbsp; Meetups & tech events.
-- 🎯 &nbsp; Inspiration: < I climbed a mountain because it's there. ⛰️ >
+- 🎯 &nbsp; Inspiration:  I climbed a mountain because it's there. ⛰️ 
 ### Languages and Tools:
 
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" height="40" style="vertical-align:top; margin:4px"></code>
@@ -43,9 +43,6 @@ I have a passion for creating great solutions to real world issues with tech.
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
