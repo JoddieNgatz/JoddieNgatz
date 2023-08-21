@@ -9,7 +9,7 @@ I have a passion for creating great solutions to real world issues with tech.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working professionally with Nodejs, Flutter, Python, Go, React,    <br />     Graphql, GraphCMS, Azure, AWS, GCP, Mongodb, Firebase, Javascript.
+- 🛠 &nbsp; I’m currently working professionally with Nodejs,Nest.js, Flutter, Python, Go, React,<br /> &nbsp; Graphql, GraphCMS, Azure, AWS, GCP, Mongodb, Firebase, Javascript.
 - 🚀 &nbsp; I’m currently a Full Stack Developer.
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/JoddieNgatz).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/JoddieNgatz/JoddieNgatz/issues/2)! I am happy to help.
@@ -21,10 +21,10 @@ I have a passion for creating great solutions to real world issues with tech.
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & experimenting.
 - 🍕 &nbsp; Meetups & tech events.
-- 🎯 &nbsp; Inspiration:  I climbed a mountain because it's there. ⛰️ 
+- 🎯 &nbsp; Inspiration:  I climbed a mountain because it's there. ⛰️
+  
 ### Languages and Tools:
 
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" height="40" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" height="40" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Go" height="40" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" height="40" style="vertical-align:top; margin:4px"></code>
