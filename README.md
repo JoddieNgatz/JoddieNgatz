@@ -7,7 +7,7 @@
 I consider myself a Problem solver who’s a driven team player eager to add value, innovate and accomplish goals. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 I have a passion for creating great solutions to real world issues with tech.
 
-### Talking about Personal Stuff:
+### About Me:
 
 - 🚀 &nbsp; I’m currently a Full Stack Developer.
 - 🛠  &nbsp; I’m currently working professionally with Nodejs, Nest, Flutter, Python, Go, React,<br />  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Graphql, GraphCMS, Azure, AWS, GCP, Mongodb, Firebase, Javascript, Dart.
@@ -18,7 +18,7 @@ I have a passion for creating great solutions to real world issues with tech.
 ### What i love to do in my free time:
 
 - 👾 &nbsp; Fun fact: I love hiking 🧗 and conquering mountains ⛰️.
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 - 📰 &nbsp; Reading & experimenting.
 - 🍕 &nbsp;  Meetups & tech events.
 - 🎯 &nbsp; Inspiration:  I climbed a mountain because it's there. ⛰️
